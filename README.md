@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=initinkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="initinkushwaha" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gigglernitin" target="blank"><img src="https://img.shields.io/twitter/follow/gigglernitin?logo=twitter&style=for-the-badge" alt="gigglernitin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Initinkushwaha" target="blank"><img src="https://img.shields.io/twitter/follow/gigglernitin?logo=twitter&style=for-the-badge" alt="gigglernitin" /></a> </p>
 
 - 🌱 I’m currently learning **TailwindCss , AI**
 
